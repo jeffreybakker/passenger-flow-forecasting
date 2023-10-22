@@ -1,0 +1,51 @@
+codes,names,coords,neighbours,abbreviations,lat,long
+12,12th Street / Oakland City Center,"(1693, 1319)","['19', 'OW', 'LM']",12TH,37.80347,-122.27160
+16,16th Street Mission,"(938, 1902)","['CC', '24']",16TH,37.76536,-122.41957
+19,19th Street Oakland,"(1693, 1228)","['MA', '12']",19TH,37.80885,-122.26852
+24,24th Street Mission,"(938, 1994)","['16', 'GP']",24TH,37.75225,-122.41847
+AN,Antioch,"(3201, 396)",['PC'],ANTC,37.99582,-121.78029
+AS,Ashby,"(1575, 931)","['BK', 'MA']",ASHB,37.85306,-122.26995
+BP,Balboa Park,"(938, 2171)","['GP', 'DC']",BALB,37.72175,-122.44746
+BF,Bayfair,"(2182, 1978)","['CV', 'HY', 'SL']",BAYF,37.69691,-122.12645
+BK,Berkeley,"(1487, 843)","['NB', 'AS']",DBRK,37.87015,-122.26811
+BE,Berryessa / North San Jose,"(2875, 3046)",['ML'],BERY,37.36873,-121.87469
+CV,Castro Valley,"(2600, 2028)","['WD', 'BF']",CAST,37.69074,-122.07560
+CC,Civic Center,"(1000, 1745)","['PL', '16']",CIVC,37.77957,-122.41372
+CL,Coliseum,"(1985, 1779)","['OA', 'SL', 'FV']",COLS,37.75364,-122.19680
+CM,Colma,"(1060, 2450)","['DC', 'SS']",COLM,37.68463,-122.46623
+CN,Concord,"(2269, 482)","['NC', 'PH']",CONC,37.97373,-122.02909
+DC,Daly City,"(972, 2360)","['BP', 'CM']",DALY,37.70626,-122.46891
+ED,Dublin/Pleasanton,"(3230, 2028)",['WD'],DUBL,37.70165,-121.89922
+EN,El Cerrito Del Norte,"(1213, 568)","['RM', 'EP']",DELN,37.92518,-122.31689
+EP,El Cerrito Plaza,"(1301, 659)","['EN', 'NB']",PLZA,37.90263,-122.29895
+EM,Embarcadero,"(1194, 1548)","['OW', 'MT']",EMBR,37.79288,-122.39702
+FM,Fremont,"(2776, 2599)","['WS', 'UC']",FRMT,37.55746,-121.97661
+FV,Fruitvale,"(1891, 1686)","['CL', 'LM']",FTVL,37.77479,-122.22411
+GP,Glen Park,"(938, 2085)","['24', 'BP']",GLEN,37.73324,-122.43352
+HY,Hayward,"(2358, 2179)","['SH', 'BF']",HAYW,37.66976,-122.08695
+LF,Lafayette,"(1999, 756)","['WC', 'OR']",LAFY,37.89318,-122.12468
+LM,Lake Merritt,"(1791, 1584)","['FV', '12', 'OW']",LAKE,37.79703,-122.26522
+MA,MacArthur,"(1693, 1135)","['AS', 'RR', '19']",MCAR,37.82880,-122.26710
+MB,Millbrae,"(1371, 2758)","['SB', 'SO']",MLBR,37.60019,-122.38682
+ML,Milpitas,"(2875, 2908)","['BE', 'WS']",MLPT,37.41015,-121.89075
+MT,Montgomery Street,"(1128, 1615)","['EM', 'PL']",MONT,37.78936,-122.40133
+NB,North Berkeley,"(1398, 752)","['EP', 'BK']",NBRK,37.87397,-122.28344
+NC,North Concord,"(2454, 396)","['WP', 'CN']",NCON,38.00338,-122.02451
+OA,Oakland International Airport,"(1922, 2023)",['CL'],OAKL,37.71327,-122.21220
+OR,Orinda,"(1906, 849)","['LF', 'RR']",ORIN,37.87848,-122.18369
+PC,Pittsburg Center,"(2988, 396)","['AN', 'WP']",PCTR,38.01686,-121.88910
+WP,Pittsburg/Bay Point,"(2723, 396)","['PC', 'NC']",PITT,38.01894,-121.93277
+PH,Pleasant Hill,"(2177, 577)","['CN', 'WC']",PHIL,37.92846,-122.05600
+PL,Powell Street,"(1065, 1673)","['MT', 'CC']",POWL,37.78437,-122.40800
+RM,Richmond,"(1124, 479)",['EN'],RICH,37.93676,-122.35305
+RR,Rockridge,"(1814, 942)","['OR', 'MA']",ROCK,37.84475,-122.25124
+SB,San Bruno,"(1247, 2634)","['SS', 'SO', 'MB']",SBRN,37.63779,-122.41630
+SO,San Francisco International Airport,"(1512, 2660)","['MB', 'SB']",SFIA,37.61606,-122.39230
+SL,San Leandro,"(2085, 1879)","['BF', 'CL']",SANL,37.72178,-122.16074
+SH,South Hayward,"(2496, 2319)","['UC', 'HY']",SHAY,37.63455,-122.05703
+SS,South San Francisco,"(1157, 2537)","['CM', 'SB']",SSAN,37.66424,-122.44396
+UC,Union City,"(2635, 2457)","['FM', 'SH']",UCTY,37.59065,-122.01735
+WC,Walnut Creek,"(2089, 665)","['PH', 'LF']",WCRK,37.90579,-122.06733
+WS,Warm Springs,"(2875, 2777)","['ML', 'FM']",WARM,37.50217,-121.93931
+WD,West Dublin/Pleasanton,"(2977, 2028)","['ED', 'CV']",WDUB,37.69970,-121.92832
+OW,West Oakland,"(1554, 1482)","['LM', '12', 'EM']",WOAK,37.80485,-122.29520

@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+checkpoints/
+wandb/
+weights/
+weights-old/
+data/ns/
+
+# Ignore all files regarding NS data
+ns-*
+*-ns.*
+ns_*
+*_ns.*
+*-ns/
+figures/ns/

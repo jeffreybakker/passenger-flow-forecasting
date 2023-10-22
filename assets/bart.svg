@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.8.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 623.6 822" style="enable-background:new 0 0 623.6 822;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:12px;}
+</style>
+<g id="Edges">
+	<line id="_x31_9-12" class="st0" x1="269.3" y1="325.6" x2="269.3" y2="297.2"/>
+	<line id="MA-19" class="st0" x1="269.3" y1="268.9" x2="269.3" y2="297.2"/>
+	<polyline id="AS-MA" class="st0" points="269.3,268.9 269.3,240.6 240.9,212.2 	"/>
+	<polyline id="RR-MA" class="st0" points="297.6,212.2 269.3,240.6 269.3,268.9 	"/>
+	<line id="EP-NB" class="st0" x1="155.9" y1="127.2" x2="184.3" y2="155.5"/>
+	<line id="NB-BK" class="st0" x1="212.6" y1="183.9" x2="184.3" y2="155.5"/>
+	<line id="BK-AS" class="st0" x1="240.9" y1="212.2" x2="212.6" y2="183.9"/>
+	<line id="EN-EP" class="st0" x1="127.6" y1="98.8" x2="155.9" y2="127.2"/>
+	<line id="RM-EN" class="st0" x1="99.2" y1="70.5" x2="127.6" y2="98.8"/>
+	<polyline id="CN-NC" class="st0" points="439.4,70.5 467.7,42.1 496.1,42.1 	"/>
+	<line id="CL-OA" class="st0" x1="326" y1="495.7" x2="354.3" y2="467.3"/>
+	<polyline id="BF-CV" class="st0" points="467.7,552.4 439.4,552.4 411,524 	"/>
+	<polyline id="FM-WS" class="st0" points="581.1,722.4 581.1,694.1 552.8,665.7 	"/>
+	<polyline id="SB-SS" class="st0" points="127.6,750.8 155.9,779.1 184.3,779.1 	"/>
+	<polyline id="DC-BP" class="st0" points="42.5,637.4 42.5,665.7 70.9,694.1 	"/>
+	<polyline id="_x31_6-CC" class="st0" points="70.9,495.7 42.5,524 42.5,552.4 	"/>
+	<polyline id="EM-OW" class="st0" points="212.6,382.3 184.3,382.3 155.9,410.6 	"/>
+	<line id="CC-PL" class="st0" x1="70.9" y1="495.7" x2="99.2" y2="467.3"/>
+	<line id="PL-MT" class="st0" x1="127.6" y1="439" x2="99.2" y2="467.3"/>
+	<line id="MT-EM" class="st0" x1="155.9" y1="410.6" x2="127.6" y2="439"/>
+	<line id="_x32_4-16" class="st0" x1="42.5" y1="552.4" x2="42.5" y2="580.7"/>
+	<line id="GP-24" class="st0" x1="42.5" y1="609.1" x2="42.5" y2="580.7"/>
+	<line id="BP-GP" class="st0" x1="42.5" y1="637.4" x2="42.5" y2="609.1"/>
+	<line id="CM-DC" class="st0" x1="70.9" y1="694.1" x2="99.2" y2="722.4"/>
+	<line id="SS-CM" class="st0" x1="127.6" y1="750.8" x2="99.2" y2="722.4"/>
+	<line id="SO-SB" class="st0" x1="184.3" y1="779.1" x2="212.6" y2="779.1"/>
+	<line id="MB-SO" class="st0" x1="240.9" y1="779.1" x2="212.6" y2="779.1"/>
+	<line id="ML-BE" class="st0" x1="581.1" y1="779.1" x2="581.1" y2="750.8"/>
+	<line id="WS-ML" class="st0" x1="581.1" y1="722.4" x2="581.1" y2="750.8"/>
+	<line id="UC-FM" class="st0" x1="552.8" y1="665.7" x2="524.4" y2="637.4"/>
+	<line id="SH-UC" class="st0" x1="496.1" y1="609.1" x2="524.4" y2="637.4"/>
+	<line id="HY-SH" class="st0" x1="467.7" y1="580.7" x2="496.1" y2="609.1"/>
+	<line id="BF-HY" class="st0" x1="411" y1="524" x2="467.7" y2="580.7"/>
+	<line id="CV-WD" class="st0" x1="467.7" y1="552.4" x2="496.1" y2="552.4"/>
+	<line id="WD-ED" class="st0" x1="524.4" y1="552.4" x2="496.1" y2="552.4"/>
+	<line id="SL-BF" class="st0" x1="411" y1="524" x2="382.7" y2="495.7"/>
+	<line id="CL-SL" class="st0" x1="354.3" y1="467.3" x2="382.7" y2="495.7"/>
+	<line id="LM-FV" class="st0" x1="326" y1="439" x2="297.6" y2="410.6"/>
+	<line id="FV-CL" class="st0" x1="354.3" y1="467.3" x2="326" y2="439"/>
+	<line id="RR-OR" class="st0" x1="297.6" y1="212.2" x2="326" y2="183.9"/>
+	<line id="LF-WC" class="st0" x1="354.3" y1="155.5" x2="382.7" y2="127.2"/>
+	<line id="PH-CN" class="st0" x1="411" y1="98.8" x2="439.4" y2="70.5"/>
+	<line id="OR-LF" class="st0" x1="354.3" y1="155.5" x2="326" y2="183.9"/>
+	<line id="WC-PH" class="st0" x1="382.7" y1="127.2" x2="411" y2="98.8"/>
+	<line id="NC-WP" class="st0" x1="496.1" y1="42.1" x2="524.4" y2="42.1"/>
+	<line id="PC-AN" class="st0" x1="581.1" y1="42.1" x2="552.8" y2="42.1"/>
+	<line id="WP-PC" class="st0" x1="524.4" y1="42.1" x2="552.8" y2="42.1"/>
+	<polyline id="_x31_2-LM" class="st0" points="269.3,325.6 269.3,382.3 297.6,410.6 	"/>
+	<polyline id="OW-LM" class="st0" points="212.6,382.3 269.3,382.3 297.6,410.6 	"/>
+	<polyline id="_x31_2-OW" class="st0" points="269.3,325.6 269.3,353.9 240.9,382.3 212.6,382.3 	"/>
+</g>
+<g id="Nodes">
+	<circle id="_x31_2" class="st1" cx="269.3" cy="325.6" r="4.3"/>
+	<circle id="_x31_9" class="st1" cx="269.3" cy="297.2" r="4.3"/>
+	<circle id="MA" class="st1" cx="269.3" cy="268.9" r="4.3"/>
+	<circle id="AS" class="st1" cx="240.9" cy="212.2" r="4.3"/>
+	<circle id="RR" class="st1" cx="297.6" cy="212.2" r="4.3"/>
+	<circle id="BK" class="st1" cx="212.6" cy="183.9" r="4.3"/>
+	<circle id="NB" class="st1" cx="184.3" cy="155.5" r="4.3"/>
+	<circle id="EP" class="st1" cx="155.9" cy="127.2" r="4.3"/>
+	<circle id="EN" class="st1" cx="127.6" cy="98.8" r="4.3"/>
+	<circle id="RM" class="st1" cx="99.2" cy="70.5" r="4.3"/>
+	<circle id="OR" class="st1" cx="326" cy="183.9" r="4.3"/>
+	<circle id="WC" class="st1" cx="382.7" cy="127.2" r="4.3"/>
+	<circle id="CN" class="st1" cx="439.4" cy="70.5" r="4.3"/>
+	<circle id="PH" class="st1" cx="411" cy="98.8" r="4.3"/>
+	<circle id="LF" class="st1" cx="354.3" cy="155.5" r="4.3"/>
+	<circle id="NC" class="st1" cx="496.1" cy="42.1" r="4.3"/>
+	<circle id="WP" class="st1" cx="524.4" cy="42.1" r="4.3"/>
+	<circle id="PC" class="st1" cx="552.8" cy="42.1" r="4.3"/>
+	<circle id="AN" class="st1" cx="581.1" cy="42.1" r="4.3"/>
+	<circle id="OW" class="st1" cx="212.6" cy="382.3" r="4.3"/>
+	<circle id="LM" class="st1" cx="297.6" cy="410.6" r="4.3"/>
+	<circle id="OA" class="st1" cx="326" cy="495.7" r="4.3"/>
+	<circle id="CL" class="st1" cx="354.3" cy="467.3" r="4.3"/>
+	<circle id="FV" class="st1" cx="326" cy="439" r="4.3"/>
+	<circle id="BF" class="st1" cx="411" cy="524" r="4.3"/>
+	<circle id="SL" class="st1" cx="382.7" cy="495.7" r="4.3"/>
+	<circle id="CV" class="st1" cx="467.7" cy="552.4" r="4.3"/>
+	<circle id="WD" class="st1" cx="496.1" cy="552.4" r="4.3"/>
+	<circle id="ED" class="st1" cx="524.4" cy="552.4" r="4.3"/>
+	<circle id="BE" class="st1" cx="581.1" cy="779.1" r="4.3"/>
+	<circle id="ML" class="st1" cx="581.1" cy="750.8" r="4.3"/>
+	<circle id="WS" class="st1" cx="581.1" cy="722.4" r="4.3"/>
+	<circle id="FM" class="st1" cx="552.8" cy="665.7" r="4.3"/>
+	<circle id="UC" class="st1" cx="524.4" cy="637.4" r="4.3"/>
+	<circle id="SH" class="st1" cx="496.1" cy="609.1" r="4.3"/>
+	<circle id="HY" class="st1" cx="467.7" cy="580.7" r="4.3"/>
+	<circle id="MB" class="st1" cx="240.9" cy="779.1" r="4.3"/>
+	<circle id="SO" class="st1" cx="212.6" cy="779.1" r="4.3"/>
+	<circle id="SB" class="st1" cx="184.3" cy="779.1" r="4.3"/>
+	<circle id="SS" class="st1" cx="127.6" cy="750.8" r="4.3"/>
+	<circle id="CM" class="st1" cx="99.2" cy="722.4" r="4.3"/>
+	<circle id="DC" class="st1" cx="70.9" cy="694.1" r="4.3"/>
+	<circle id="BP" class="st1" cx="42.5" cy="637.4" r="4.3"/>
+	<circle id="GP" class="st1" cx="42.5" cy="609.1" r="4.3"/>
+	<circle id="_x32_4" class="st1" cx="42.5" cy="580.7" r="4.3"/>
+	<circle id="_x31_6" class="st1" cx="42.5" cy="552.4" r="4.3"/>
+	<circle id="CC" class="st1" cx="70.9" cy="495.7" r="4.3"/>
+	<circle id="PL" class="st1" cx="99.2" cy="467.3" r="4.3"/>
+	<circle id="MT" class="st1" cx="127.6" cy="439" r="4.3"/>
+	<circle id="EM" class="st1" cx="155.9" cy="410.6" r="4.3"/>
+</g>
+<g id="Labels">
+	<text transform="matrix(1 0 0 1 392.1208 491.8562)" class="st2 st3">San Leandro</text>
+	<text transform="matrix(1 0 0 1 420.2947 519.6394)" class="st2 st3">Bay Fair</text>
+	<text transform="matrix(0.6418 -0.7668 0.7668 0.6418 471.969 548.1123)" class="st2 st3">Castro Valley</text>
+	<text transform="matrix(0.6418 -0.7668 0.7668 0.6418 500.3152 548.1123)" class="st2 st3">West Dublin / Pleasanton</text>
+	<text transform="matrix(0.6418 -0.7668 0.7668 0.6418 528.6616 548.1123)" class="st2 st3">Dublin / Pleasanton</text>
+	<text transform="matrix(1 0 0 1 479.3816 577.9431)" class="st2 st3">Hayward</text>
+	<text transform="matrix(1 0 0 1 504.0339 604.5525)" class="st2 st3">South Hayward</text>
+	<text transform="matrix(1 0 0 1 531.8162 633.1169)" class="st2 st3">Union City</text>
+	<text transform="matrix(1 0 0 1 561.1648 661.6824)" class="st2 st3">Fremont</text>
+	<text transform="matrix(1 0 0 1 490.0608 713.3318)"><tspan x="0" y="0" class="st2 st3">Warm Springs /  </tspan><tspan x="3.9" y="14.4" class="st2 st3">South Fremont</tspan></text>
+	<text transform="matrix(1 0 0 1 531.4045 743.8542)" class="st2 st3">Milpitas</text>
+	<text transform="matrix(1 0 0 1 518.2307 770.071)"><tspan x="0" y="0" class="st2 st3">Berryessa /  </tspan><tspan x="-16.3" y="14.4" class="st2 st3">North Jan Jose</tspan></text>
+	<text transform="matrix(0.6418 -0.7668 0.7668 0.6418 188.5044 774.8838)" class="st2 st3">San Bruno</text>
+	<text transform="matrix(0.6418 -0.7668 0.7668 0.6418 216.8508 774.8838)" class="st2 st3">San Fransisco International Airport</text>
+	<text transform="matrix(0.6418 -0.7668 0.7668 0.6418 245.1973 774.8838)" class="st2 st3">MillBrae</text>
+	<text transform="matrix(1 0 0 1 50.5134 638.2039)" class="st2 st3">Balboa Park</text>
+	<text transform="matrix(1 0 0 1 51.6873 608.8562)" class="st2 st3">Glen Park</text>
+	<text transform="matrix(1 0 0 1 52.0784 581.8562)" class="st2 st3">24th</text>
+	<text transform="matrix(1 0 0 1 52.4695 555.6394)" class="st2 st3">16th</text>
+	<text transform="matrix(1 0 0 1 79.4695 499.6824)"><tspan x="0" y="0" class="st2 st3">Civic Center /  </tspan><tspan x="0" y="14.4" class="st2 st3">UN Plaza</tspan></text>
+	<text transform="matrix(1 0 0 1 111.1653 470.7263)" class="st2 st3">Powell St</text>
+	<text transform="matrix(1 0 0 1 139.7302 442.9441)" class="st2 st3">Montgomery St</text>
+	<text transform="matrix(1 0 0 1 167.9041 413.9871)" class="st2 st3">Embarcadero</text>
+	<text transform="matrix(1 0 0 1 15.0042 754.03)" class="st2 st3">South San Fransisco</text>
+	<text transform="matrix(1 0 0 1 51.6023 725.8562)" class="st2 st3">Colma</text>
+	<text transform="matrix(1 0 0 1 13.3621 696.1169)" class="st2 st3">Daly City</text>
+	<text transform="matrix(1 0 0 1 286.4591 328.5777)" class="st2 st3">12th</text>
+	<text transform="matrix(1 0 0 1 283.9719 299.6726)" class="st2 st3">19th</text>
+	<text transform="matrix(1 0 0 1 291.2742 273.9008)" class="st2 st3">MacArthur</text>
+	<text transform="matrix(1 0 0 1 214.6653 224.9876)" class="st2 st3">Ashby</text>
+	<text transform="matrix(1 0 0 1 311.1218 218.9226)" class="st2 st3">Rockridge</text>
+	<text transform="matrix(1 0 0 1 228.3606 180.5745)"><tspan x="0" y="0" class="st2 st3">Downtown </tspan><tspan x="0" y="14.4" class="st2 st3">Berkeley</tspan></text>
+	<text transform="matrix(1 0 0 1 198.426 152.5965)" class="st2 st3">North Berkeley</text>
+	<text transform="matrix(1 0 0 1 165.9475 125.9881)" class="st2 st3">El Cerrito Plaza</text>
+	<text transform="matrix(1 0 0 1 134.8391 98.2053)" class="st2 st3">El Cerrito del Norte</text>
+	<text transform="matrix(1 0 0 1 112.7302 70.8142)" class="st2 st3">Richmond</text>
+	<text transform="matrix(0.6418 -0.7668 0.7668 0.6418 500.3149 37.876)" class="st2 st3">North Concord / Martinez</text>
+	<text transform="matrix(0.6418 -0.7668 0.7668 0.6418 529.9341 37.876)" class="st2 st3">Pittsburg / Bay Point</text>
+	<text transform="matrix(0.6418 -0.7668 0.7668 0.6418 557.0085 37.876)" class="st2 st3">Pittsburg Center</text>
+	<text transform="matrix(0.6418 -0.7668 0.7668 0.6418 585.355 37.876)" class="st2 st3">Antioch</text>
+	<text transform="matrix(1 0 0 1 335.1863 187.031)" class="st2 st3">Orinda</text>
+	<text transform="matrix(1 0 0 1 362.9695 159.053)" class="st2 st3">Lafayette</text>
+	<text transform="matrix(1 0 0 1 392.1208 131.4661)" class="st2 st3">Walnut Creek</text>
+	<text transform="matrix(1 0 0 1 423.2302 103.8792)" class="st2 st3">Pleasant Hill</text>
+	<text transform="matrix(1 0 0 1 447.8816 74.5315)" class="st2 st3">Concord</text>
+	<text transform="matrix(1 0 0 1 308.3826 404.4002)" class="st2 st3">Lake Merritt</text>
+	<text transform="matrix(1 0 0 1 173.5176 374.7532)" class="st2 st3">West Oakland</text>
+	<text transform="matrix(1 0 0 1 332.447 436.6834)" class="st2 st3">Fruitvale</text>
+	<text transform="matrix(1 0 0 1 360.6208 462.3133)" class="st2 st3">Coliseum</text>
+	<text transform="matrix(1 0 0 1 273.3103 489.5086)"><tspan x="0" y="0" class="st2 st3">Oakland </tspan><tspan x="-22.8" y="14.4" class="st2 st3">International </tspan><tspan x="6.3" y="28.8" class="st2 st3">Airport</tspan></text>
+</g>
+</svg>
