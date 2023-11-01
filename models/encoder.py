@@ -5,6 +5,8 @@ from torch import nn
 
 
 class FeatureEncoder(nn.Module):
+    """Encodes exogenous features from multiple (past & future) time-steps into single timestep."""
+
     def __init__(self, n_features: int, history: int, horizon: int):
         super().__init__()
         self._history_len = history
@@ -28,8 +30,7 @@ class FeatureEncoder(nn.Module):
 
         x = self._enc(x)
 
-        # res = torch.zeros_like(history)
-        # res[:, :, :] = history
+
         res = torch.clone(history)
         res[:, -1, -self._n_features:] = x
 
