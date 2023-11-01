@@ -16,6 +16,7 @@ Even though passenger demand in public transportation tends to be quite regular,
 _(Link will work starting 2023-11-06)_
 
 ![Visualized passenger flow](assets/flow.gif)
+
 _Visualized passenger flow throughout the day._
 
 ## Running the code
