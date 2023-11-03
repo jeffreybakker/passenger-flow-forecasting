@@ -1,19 +1,16 @@
 # Passenger Flow Forecasting in Public Transportation Networks Under Event Conditions
 _University of Twente Master thesis: [essay.utwente.nl/97536/](https://essay.utwente.nl/97536/)_
-_(Link will work starting 2023-11-06)_
 
 This GitHub repository contains the implementations for the various passenger flow forecasting algorithms explored in the Master thesis of Computer Science at the University of Twente in collaboration with Info Support.
 
 The code is copyrighted by Info Support B.V. in the Netherlands and published under the Apache-2 license.
 
----
 
 ## Why?
 
 Public transportation networks are an essential part of public infrastructure and have the potential to reduce society's dependency on personal cars. Making public transportation a more attractive option requires better passenger demand forecasts, as these can be used to guarantee enough seating capacity for everyone, especially under event conditions (such as concerts, festivals, and sports).
 
 Even though passenger demand in public transportation tends to be quite regular, accurately forecasting the additional peaks of passengers caused by large events has proven to be quite challenging. This research attempts to accurately forecast these peaks in additional demand based on some details about the events. The results of this research did not confirm the hypothesis, but some positive results show a potential for future works that have access to better quality data. _Read the thesis for more details: [essay.utwente.nl/97536/](https://essay.utwente.nl/97536/)_
-_(Link will work starting 2023-11-06)_
 
 ![Visualized passenger flow](assets/flow.gif)
 
