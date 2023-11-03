@@ -3,7 +3,7 @@ _University of Twente Master thesis: [essay.utwente.nl/97536/](https://essay.utw
 
 This GitHub repository contains the implementations for the various passenger flow forecasting algorithms explored in the Master thesis of Computer Science at the University of Twente in collaboration with Info Support.
 
-The code is copyrighted by Info Support B.V. in the Netherlands and published under the Apache-2 license.
+The code is copyrighted by Info Support B.V. in the Netherlands and published under the Apache-2.0 license.
 
 
 ## Why?
